@@ -18,7 +18,7 @@
 
 [link target=*tag_1] →寝る [endlink][r]
 [link target=*tag_2] →寝る [endlink][r]
-[link target=*tag_3] →寝る [endlink][r]
+; [link target=*tag_3] →寝る [endlink][r]
 [s]
 
 *tag_1
@@ -48,6 +48,7 @@
 
 [jump target=*start]
 
+/*
 *tag_3
 
 [cm]
@@ -62,3 +63,4 @@
 【 END 】[l][cm]
 
 [jump target=*start]
+*/
